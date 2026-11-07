@@ -9,7 +9,7 @@
 > Personal writeups documenting my journey through PortSwigger Web Security Academy.  
 > CS student at USTED building toward offensive security and bug bounty.  
 > Each writeup covers: vulnerability theory, methodology, reproduction steps, real-world impact, and fixes.  
-> I write publicly to learn better and to build the portfolio I'll need to go international.
+> I write publicly to learn better and to build the portfolio.
 
 📚 Writeups
 
